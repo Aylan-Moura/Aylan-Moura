@@ -1,8 +1,8 @@
 #  Aylan Moura
 
-**`Software Enginner / Back-End Java`**
+**`Desenvolvedor back-end Java`**
 
-Meu nome é Aylan Moura. Sou um profissional em formação com foco claro em atuar como Desenvolvedor Java / Engenheiro de Software, direcionando meus estudos e prática para desenvolvimento back-end e construção de sistemas bem estruturados.
+Meu nome é Aylan Moura. Sou um profissional em formação com foco claro em atuar como Desenvolvedor Java / Engenheiro de Software, direcionando meus estudos e práticas para desenvolvimento back-end e a construção de sistemas bem estruturados.
 
 Atualmente, estou em processo ativo de qualificação por meio de estudos consistentes e desenvolvimento de projetos pessoais em Java, aplicando na prática lógica de programação, programação orientada a objetos (POO), boas práticas de código e organização de arquitetura básica. Meu objetivo é transformar conhecimento técnico em capacidade real de entrega.
 
