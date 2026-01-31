@@ -12,28 +12,6 @@ Venho construindo experiência prática por meio de projetos próprios, onde exe
 
 Competências técnicas em desenvolvimento:
 
-Java
-
-Lógica de Programação
-
-Programação Orientada a Objetos (POO)
-
-Spring Framework (em aprendizado)
-
-Docker (em aprendizado)
-
-SQL (fundamentos)
-
-PostgreSQL (em aprendizado)
-
-Desenvolvimento Back-end
-
-Arquitetura em camadas
-
-Estrutura de projetos e boas práticas
-
-Resolução de problemas
-
-Aprendizado contínuo
+Java | Lógica de Programação | Programação Orientada a Objetos (POO) | Spring Framework (em aprendizado) | Docker (em aprendizado) | SQL (fundamentos) | PostgreSQL (em aprendizado) | Arquitetura em camadas | Estrutura de projetos e boas práticas | Resolução de problemas | Aprendizado contínuo.
 
 Busco uma oportunidade como estagiário, trainee ou desenvolvedor júnior, onde eu possa aprender rapidamente, contribuir com projetos reais e evoluir tecnicamente em um ambiente profissional orientado a boas práticas.
