@@ -1,17 +1,16 @@
 #  Aylan Moura
 
-**`Desenvolvedor back-end Java`**
+**`Desenvolvedor back-end`**
 
-Meu nome é Aylan Moura. Sou um profissional em formação com foco claro em atuar como Desenvolvedor Java / Engenheiro de Software, direcionando meus estudos e práticas para desenvolvimento back-end e a construção de sistemas bem estruturados.
+Sou um profissional em formação com foco em atuar como Desenvolvedor Back-end, direcionando meus estudos e projetos para a construção de sistemas bem estruturados, escaláveis e orientados a boas práticas de engenharia de software.
 
-Atualmente, estou em processo ativo de qualificação por meio de estudos consistentes e desenvolvimento de projetos pessoais em Java, aplicando na prática lógica de programação, programação orientada a objetos (POO), boas práticas de código e organização de arquitetura básica. Meu objetivo é transformar conhecimento técnico em capacidade real de entrega.
+Estou em processo ativo de qualificação, desenvolvendo projetos próprios em Java onde aplico lógica de programação, Programação Orientada a Objetos, arquitetura em camadas, organização de código e princípios de design limpo. Meu objetivo é transformar conhecimento técnico em capacidade real de entrega, com mentalidade de engenharia e evolução contínua.
 
-Tenho forte interesse pela área de tecnologia e desenvolvimento de software, com perfil disciplinado, resiliente e orientado a aprendizado contínuo. Encaro desafios técnicos como oportunidade de crescimento e evolução profissional, buscando sempre entender o porquê por trás das soluções.
+Possuo também experiência introdutória em JavaScript, HTML, CSS, React e Tailwind, adquirida durante minha formação, o que me proporciona visão geral de front-end e integração entre camadas — porém minha especialização está direcionada ao ecossistema Java e desenvolvimento back-end.
 
-Venho construindo experiência prática por meio de projetos próprios, onde exercito análise de problemas, implementação de soluções, leitura e escrita de código limpo e evolução incremental. Esses projetos têm sido fundamentais para desenvolver mentalidade profissional e responsabilidade técnica.
+Tenho perfil disciplinado, resiliente e orientado a aprendizado constante. Encaro desafios técnicos como oportunidade de crescimento e busco compreender os fundamentos por trás das soluções. Embora meu foco atual seja Java, mantenho flexibilidade tecnológica e estou totalmente disposto a aprender e atuar com outras linguagens e stacks back-end conforme a necessidade do projeto e da equipe.
 
-Competências técnicas em desenvolvimento:
+Stack principal: Java • Spring Framework • SQL • PostgreSQL • Docker • AWS • Kubernetes • POO • Arquitetura em Camadas • Boas Práticas
+Base complementar: JavaScript • HTML • CSS • React • Tailwind • Ux • Ui Design
 
-Java | Lógica de Programação | Programação Orientada a Objetos (POO) | Spring Framework (em aprendizado) | Docker (em aprendizado) | SQL (fundamentos) | PostgreSQL (em aprendizado) | Arquitetura em camadas | Estrutura de projetos e boas práticas | Resolução de problemas | Aprendizado contínuo.
-
-Busco uma oportunidade como estagiário, trainee ou desenvolvedor júnior, onde eu possa aprender rapidamente, contribuir com projetos reais e evoluir tecnicamente em um ambiente profissional orientado a boas práticas.
+Busco oportunidades como estagiário, trainee ou desenvolvedor júnior para contribuir com projetos reais, aprender com equipes experientes e evoluir tecnicamente em ambientes orientados a qualidade de software.
