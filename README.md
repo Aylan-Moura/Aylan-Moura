@@ -10,7 +10,7 @@ Possuo também experiência introdutória em JavaScript, HTML, CSS, React e Tail
 
 Tenho perfil disciplinado, resiliente e orientado a aprendizado constante. Encaro desafios técnicos como oportunidade de crescimento e busco compreender os fundamentos por trás das soluções. Embora meu foco atual seja Java, mantenho flexibilidade tecnológica e estou totalmente disposto a aprender e atuar com outras linguagens e stacks back-end conforme a necessidade do projeto e da equipe.
 
-Stack principal: Java • Spring Framework • SQL • PostgreSQL • Docker • AWS • Kubernetes • POO • Arquitetura em Camadas • Boas Práticas
-Base complementar: JavaScript • HTML • CSS • React • Tailwind • Ux • Ui Design
+Stack principal: Java • Spring Framework • SQL • PostgreSQL • Docker • AWS • Kubernetes • POO • Arquitetura em Camadas • Boas Práticas.
+Base complementar: JavaScript • HTML • CSS • React • Tailwind • Ux • Ui Design.
 
 Busco oportunidades como estagiário, trainee ou desenvolvedor júnior para contribuir com projetos reais, aprender com equipes experientes e evoluir tecnicamente em ambientes orientados a qualidade de software.
