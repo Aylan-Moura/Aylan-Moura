@@ -1,16 +1,122 @@
-#  Aylan Moura
+<h1 align="center">Aylan Moura</h1>
+<h3 align="center">Back-end Developer | Java • Spring • Cloud</h3>
 
-**`Desenvolvedor back-end`**
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-blue"/>
+  <img src="https://img.shields.io/badge/Stack-Java%20%7C%20Spring-green"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange"/>
+  <img src="https://img.shields.io/badge/Container-Docker-blue"/>
+</p>
 
-Sou um profissional em formação com foco em atuar como Desenvolvedor Back-end, direcionando meus estudos e projetos para a construção de sistemas bem estruturados, escaláveis e orientados a boas práticas de engenharia de software.
+---
 
-Estou em processo ativo de qualificação, desenvolvendo projetos próprios em Java onde aplico lógica de programação, Programação Orientada a Objetos, arquitetura em camadas, organização de código e princípios de design limpo. Meu objetivo é transformar conhecimento técnico em capacidade real de entrega, com mentalidade de engenharia e evolução contínua.
+# 👨‍💻 Sobre mim
 
-Possuo também experiência introdutória em JavaScript, HTML, CSS, React e Tailwind, adquirida durante minha formação, o que me proporciona visão geral de front-end e integração entre camadas — porém minha especialização está direcionada ao ecossistema Java e desenvolvimento back-end.
+Sou um profissional em formação com foco em atuar como **Desenvolvedor Back-end**, direcionando meus estudos e projetos para construção de sistemas **bem estruturados, escaláveis e orientados a boas práticas de engenharia de software**.
 
-Tenho perfil disciplinado, resiliente e orientado a aprendizado constante. Encaro desafios técnicos como oportunidade de crescimento e busco compreender os fundamentos por trás das soluções. Embora meu foco atual seja Java, mantenho flexibilidade tecnológica e estou totalmente disposto a aprender e atuar com outras linguagens e stacks back-end conforme a necessidade do projeto e da equipe.
+Atualmente desenvolvo **projetos próprios em Java**, aplicando:
 
-Stack principal: Java • Spring Framework • SQL • PostgreSQL • Docker • AWS • Kubernetes • POO • Arquitetura em Camadas • Boas Práticas.
-Base complementar: JavaScript • HTML • CSS • React • Tailwind • Ux • Ui Design.
+- Lógica de Programação
+- Programação Orientada a Objetos
+- Arquitetura em Camadas
+- Clean Code
+- Organização de Código
 
-Busco oportunidades como estagiário, trainee ou desenvolvedor júnior para contribuir com projetos reais, aprender com equipes experientes e evoluir tecnicamente em ambientes orientados a qualidade de software.
+Meu objetivo é transformar conhecimento técnico em **capacidade real de entrega**, com mentalidade de engenharia e evolução contínua.
+
+---
+
+# 📊 Dashboard de Atividade
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aylan-Moura&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aylan-Moura&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚙️ Stack Principal
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,kubernetes"/>
+
+</p>
+
+**Tecnologias principais**
+
+- Java  
+- Spring Framework  
+- SQL  
+- PostgreSQL  
+- Docker  
+- AWS  
+- Kubernetes  
+
+**Conceitos**
+
+- Programação Orientada a Objetos
+- Arquitetura em Camadas
+- Clean Code
+- Boas Práticas de Engenharia
+
+---
+
+# 🧩 Base Complementar
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind"/>
+
+</p>
+
+Possuo experiência introdutória em tecnologias de front-end, incluindo:
+
+- JavaScript
+- HTML
+- CSS
+- React
+- Tailwind
+
+Esses conhecimentos me fornecem visão geral de **integração entre front-end e back-end**, embora minha especialização esteja direcionada ao **ecossistema Java**.
+
+---
+
+# 📈 Contribuições
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aylan-Moura&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 Objetivo Profissional
+
+Busco oportunidades como:
+
+- Estagiário
+- Trainee
+- Desenvolvedor Back-end Júnior
+
+Desejo contribuir com **projetos reais**, aprender com **equipes experientes** e evoluir tecnicamente em ambientes orientados à **qualidade de software**.
+
+---
+
+# 📫 Contato
+
+<p>
+
+<a href="https://linkedin.com/in/aylan-moura/">
+<img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin"/>
+</a>
+
+<a href="mailto:mouraaylan@outlook.com">
+<img src="https://img.shields.io/badge/Email-Contato-red?logo=gmail"/>
+</a>
+
+</p>
