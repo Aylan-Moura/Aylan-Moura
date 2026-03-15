@@ -1,5 +1,5 @@
 <h1 align="center">Aylan Moura</h1>
-<h3 align="center">Back-end Developer | Java • Spring Boot • Docker  • SQL    </h3>
+<h3 align="center">Back-end Developer | Java • Spring Boot • Docker • SQL    </h3>
 
 
 
@@ -37,7 +37,7 @@ Meu objetivo é transformar conhecimento técnico em **capacidade real de entreg
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=java,spring boot,,docker,aws,sql"/>
+<img src="https://skillicons.dev/icons?i=java,spring,docker,aws,postgres"/>
 
 </p>
 
