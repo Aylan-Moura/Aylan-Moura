@@ -37,18 +37,17 @@ Meu objetivo é transformar conhecimento técnico em **capacidade real de entreg
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,kubernetes"/>
+<img src="https://skillicons.dev/icons?i=java,spring boot,,docker,aws,sql"/>
 
 </p>
 
 **Tecnologias principais**
 
 - Java  
-- Spring Boot  
-- SQL  
-- PostgreSQL  
+- Spring Boot   
 - Docker  
-- AWS  
+- AWS
+- SQL
     
 
 **Conceitos**
