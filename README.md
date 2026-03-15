@@ -1,11 +1,9 @@
 <h1 align="center">Aylan Moura</h1>
-<h3 align="center">Back-end Developer | Java • Spring • Cloud</h3>
+<h3 align="center">Back-end Developer | Java • Spring Boot • </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-blue"/>
   <img src="https://img.shields.io/badge/Stack-Java%20%7C%20Spring-green"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS-orange"/>
-  <img src="https://img.shields.io/badge/Container-Docker-blue"/>
 </p>
 
 ---
@@ -49,12 +47,12 @@ Meu objetivo é transformar conhecimento técnico em **capacidade real de entreg
 **Tecnologias principais**
 
 - Java  
-- Spring Framework  
+- Spring Boot  
 - SQL  
 - PostgreSQL  
 - Docker  
 - AWS  
-- Kubernetes  
+    
 
 **Conceitos**
 
@@ -69,7 +67,7 @@ Meu objetivo é transformar conhecimento técnico em **capacidade real de entreg
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind"/>
+<img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,python"/>
 
 </p>
 
@@ -80,6 +78,7 @@ Possuo experiência introdutória em tecnologias de front-end, incluindo:
 - CSS
 - React
 - Tailwind
+- Python
 
 Esses conhecimentos me fornecem visão geral de **integração entre front-end e back-end**, embora minha especialização esteja direcionada ao **ecossistema Java**.
 
@@ -107,7 +106,7 @@ Desejo contribuir com **projetos reais**, aprender com **equipes experientes** e
 
 ---
 
-# 📫 Contato
+# 📫 Contatos
 
 <p>
 
@@ -117,6 +116,14 @@ Desejo contribuir com **projetos reais**, aprender com **equipes experientes** e
 
 <a href="mailto:mouraaylan@outlook.com">
 <img src="https://img.shields.io/badge/Email-Contato-red?logo=gmail"/>
+</a>
+
+<a href="https://portifolio-five-lovat.vercel.app/">
+<img src="https://img.shields.io/badge/Website-Portfólio-black?logo=vercel"/>
+</a>
+
+<a href="https://wa.me/5585989629315">
+<img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?logo=whatsapp&logoColor=white"/>
 </a>
 
 </p>
