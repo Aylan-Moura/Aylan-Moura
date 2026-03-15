@@ -1,10 +1,7 @@
 <h1 align="center">Aylan Moura</h1>
 <h3 align="center">Back-end Developer | Java • Spring Boot • </h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-blue"/>
-  <img src="https://img.shields.io/badge/Stack-Java%20%7C%20Spring-green"/>
-</p>
+
 
 ---
 
