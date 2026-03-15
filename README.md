@@ -1,5 +1,5 @@
 <h1 align="center">Aylan Moura</h1>
-<h3 align="center">Back-end Developer | Java • Spring Boot • </h3>
+<h3 align="center">Back-end Developer | Java • Spring Boot • Docker  • SQL    </h3>
 
 
 
