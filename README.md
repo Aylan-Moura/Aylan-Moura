@@ -10,7 +10,7 @@
 
 ---
 
-# 👨‍💻 Sobre mim
+
 
 Sou um profissional em formação com foco em atuar como **Desenvolvedor Back-end**, direcionando meus estudos e projetos para construção de sistemas **bem estruturados, escaláveis e orientados a boas práticas de engenharia de software**.
 
@@ -26,7 +26,7 @@ Meu objetivo é transformar conhecimento técnico em **capacidade real de entreg
 
 ---
 
-# 📊 Dashboard de Atividade
+# 📊 Dashboard de Atividades
 
 <p align="center">
 
@@ -65,7 +65,7 @@ Meu objetivo é transformar conhecimento técnico em **capacidade real de entreg
 
 ---
 
-# 🧩 Base Complementar
+#  Base Complementar
 
 <p>
 
