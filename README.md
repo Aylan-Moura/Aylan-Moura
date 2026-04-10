@@ -7,7 +7,7 @@
 
 
 
-Sou um profissional com foco em ** Back-end **, direcionando meus estudos e projetos para construção de sistemas **bem estruturados, escaláveis e orientados a boas práticas de engenharia de software**.
+Sou um profissional com foco em **Back-end**, direcionando meus estudos e projetos para construção de sistemas **bem estruturados, escaláveis e orientados a boas práticas de engenharia de software**.
 
 Atualmente desenvolvo **projetos próprios em Java**, aplicando:
 
