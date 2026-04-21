@@ -81,13 +81,11 @@ Esses conhecimentos me fornecem visão geral de **integração entre front-end e
 
 # 🎯 Objetivo Profissional
 
-Busco oportunidades como:
+Atuo como Desenvolvedor Back-end, com foco em criar soluções eficientes, seguras e escaláveis para atender às necessidades reais de negócios.
 
-- Estagiário
-- Trainee
-- Desenvolvedor Back-end Júnior
+Meu objetivo é ajudar empresas e profissionais a transformarem suas ideias em sistemas funcionais e confiáveis, garantindo qualidade no desenvolvimento, organização do código e atenção à performance. Busco sempre entender o problema de forma estratégica para entregar soluções que realmente gerem resultado.
 
-Desejo contribuir com **projetos reais**, aprender com **equipes experientes** e evoluir tecnicamente em ambientes orientados à **qualidade de software**.
+Prezo por comunicação clara, cumprimento de prazos e comprometimento com cada projeto, atuando como parceiro no crescimento e na evolução tecnológica dos clientes.
 
 ---
 
